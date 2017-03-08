@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:CoffeeMe.xcodeproj">
+      location = "self:/Users/ani/Desktop/CoffeeMe-master/CoffeeMe2.xcodeproj">
    </FileRef>
 </Workspace>
