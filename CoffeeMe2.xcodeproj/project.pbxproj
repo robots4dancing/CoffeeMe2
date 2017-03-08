@@ -43,7 +43,7 @@
 		1F7440341E664BB30046684C = {
 			isa = PBXGroup;
 			children = (
-				1F74403F1E664BB30046684C /* CoffeeMe */,
+				1F74403F1E664BB30046684C /* CoffeeMe2 */,
 				1F74403E1E664BB30046684C /* Products */,
 				1F7440521E664C710046684C /* Frameworks */,
 			);
@@ -57,7 +57,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1F74403F1E664BB30046684C /* CoffeeMe */ = {
+		1F74403F1E664BB30046684C /* CoffeeMe2 */ = {
 			isa = PBXGroup;
 			children = (
 				1F7440401E664BB30046684C /* AppDelegate.swift */,
@@ -68,6 +68,7 @@
 				1F7440491E664BB30046684C /* LaunchScreen.storyboard */,
 				1F74404C1E664BB30046684C /* Info.plist */,
 			);
+			name = CoffeeMe2;
 			path = CoffeeMe;
 			sourceTree = "<group>";
 		};
